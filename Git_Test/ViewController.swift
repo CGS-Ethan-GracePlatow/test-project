@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         
         print("TOWER")
     
+        print("Version 1.1 Update")
+        
     }
 
     override func didReceiveMemoryWarning() {
