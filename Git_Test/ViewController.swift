@@ -18,6 +18,9 @@ class ViewController: UIViewController {
     
         print("Version 1.1 Update")
         
+        print("Hello Feature-x")
+        print("^^ That's feature-x")
+        
     }
 
     override func didReceiveMemoryWarning() {
